@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VIhK/RgdBF2Itn5l25WDAYgbgvxFP4u09EclwWlbbBE=",
+  "Source": "API-REST-DOTNET-CORE",
+  "BasePath": "_content/API-REST-DOTNET-CORE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
